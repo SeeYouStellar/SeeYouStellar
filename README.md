@@ -2,7 +2,6 @@
 ### Welcome to my Github Page
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SeeYouStellar)
-[![CSDN](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://blog.csdn.net/weixin_45842471?spm=1000.2115.3001.5343)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nothingbutpersistence@gmail.com)
 
 I am Xinyu Li, a postgradute student at Nanjing University of Aeronautics and Astronautics(NUAA) learning Computer Engineering.My research area is distributed system, which includes kubernetes resource scheduling and edge computing.
