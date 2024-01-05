@@ -7,13 +7,14 @@
 I am Xinyu Li, a postgradute student at Nanjing University of Aeronautics and Astronautics(NUAA) learning Computer Engineering.My research area is distributed system, which includes kubernetes resource scheduling and edge computing.
 
 #### 👀 Things I am interested in
-- Computer Science, Computer Engineering, Computer Systems
+- Computer Science
 - Open Source Courses about Computer Science and Engineering, including MIT6.824, CMU15-443
-- watching films, including Interstellar and Marvel
+- watching films, including Interstellar and Marvel's film
 
 #### 💡 Things I am currently working on
 - Reproduction paper about kubernetes resource scheduling
 - Learning CMU15-443 Distributed System by myself
+- Studying Reinforcement learning
 
 #### :muscle: Things I am challenging myself with
 - Wake up earlier to make good use of the day
